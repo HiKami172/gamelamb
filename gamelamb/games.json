@@ -1,0 +1,14 @@
+{
+  "2truths1lie": {
+    "title": "Two Truths and One Lie",
+    "description": "Game Description",
+    "min_players": 2,
+    "max_players": 8
+  },
+  "human-bingo": {
+    "title": "Human Bingo",
+    "description": "Game Description",
+    "min_players": 4,
+    "max_players": 10
+  }
+}
